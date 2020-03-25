@@ -11,7 +11,7 @@ var lyr_AcademiedeLille_0 = new ol.layer.Vector({
                 declutter: true,
                 source:jsonSource_AcademiedeLille_0, 
                 style: style_AcademiedeLille_0,
-                interactive: true,
+                interactive: false,
                 title: '<img src="styles/legend/AcademiedeLille_0.png" /> Academie de Lille'
             });
 var format_CollgePublic_1 = new ol.format.GeoJSON();
